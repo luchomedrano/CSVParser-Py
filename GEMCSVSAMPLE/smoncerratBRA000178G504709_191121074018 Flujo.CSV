@@ -1,0 +1,15 @@
+Model;BIOGAS5000;Serial No;G504709;;;;;;;;;;;;;;
+Date downloaded;21/11/2019 07:40;Software Version;1.10.4;;;;;;;;;;;;;;
+Computer & User Info;BRA000178;smoncerrat;;;;;;;;;;;;;;;
+Date of last user calibration;18/8/2019;;;;;;;;;;;;;;;;
+Date of last factory calibration;31/5/2017;;;;;;;;;;;;;;;;
+Next service due;30/5/2018;;;;;;;;;;;;;;;;
+Date of last Gas Check;N/A;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+ID;DATE;CH4;CO2;O2;BALANCE;CH4 %LEL;BARO;ANEMOMETER.FLOW;TECH.ID;H2S;STATIC PRESSURE;DIFFERENTIAL PRESSURE;FLOW CALC;SYS-P;CH4/CO2;Res Nitrogen;LOCATION DIFFERENCE
+;;%;%;%;%;%;mb;m3/h;;ppm;mb;mb;m3/h;mb;%;%;m
+M1S09;20/11/2019 13:22;52,4;38,6;0,9;8,1;>>>>;1008;390,3;N/A_;42;-14,07;0,139;390,3;-12,92;1,36;4,7;
+M1S06;20/11/2019 13:32;49,1;36,1;1,6;13,2;>>>>;1007;158;N/A_;41;-21,47;0,003;158;-20,41;1,36;7,15;
+M1S10;20/11/2019 13:50;52;39;0,6;8,4;>>>>;1008;130,6;N/A_;39;-25,77;0,016;130,6;-25,93;1,33;6,13;
+M1S15;20/11/2019 14:09;49,4;38;0,5;12,1;>>>>;1011;429,3;N/A_;21;-33,81;0,173;429,3;-34,19;1,3;10,21;
+M1FL1;20/11/2019 14:21;46,4;35,6;1,8;16,2;>>>>;1012;1444,1;N/A_;25;-40,79;0,286;1444,1;-39,49;1,3;9,4;
