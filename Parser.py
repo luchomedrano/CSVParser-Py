@@ -7,6 +7,7 @@ for path,dirs,files in os.walk('.'):
         fullname = os.path.abspath(os.path.join(path,f))
         text = open(fullname).read()
         print(fullname)
+        print('testing')
         print(text)
 
 # print(os.getcwd())
